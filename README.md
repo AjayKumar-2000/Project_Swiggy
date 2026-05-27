@@ -63,3 +63,7 @@ Before hitting the dashboard, the raw data underwent strict QA rules via SQL to 
 * **Referential Integrity Checks:** Eliminated orphan orders that lacked corresponding customer or restaurant records.
 * **Business Logic Constraints:** Flagged and handled anomalies such as negative order amounts or delivery timestamps recorded prior to order pickup timestamps.
 * **Data Cleansing:** Standardized mismatched city strings and unified date string formats into indexable datatypes.
+
+  ## 📊 Dashboard Preview
+
+<img width="1222" height="728" alt="dashboard_preview" src="https://github.com/user-attachments/assets/f0d1e8d5-a8cc-4e53-847b-31ca8120e8b3" />
